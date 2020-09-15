@@ -1,7 +1,7 @@
 NAvbar
 
-SideBar
+Side Bar
 
 Main Header
 
-Main Content - 1
+Main Content / 1
