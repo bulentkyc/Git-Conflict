@@ -1,4 +1,4 @@
-NAvbar
+Navbar
 
 Side Bar
 
